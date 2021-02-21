@@ -1,0 +1,21 @@
+{
+  "name": "@mikamikuh/stylelint-config",
+  "version": "0.0.8",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "^13.10.0"
+  }
+}

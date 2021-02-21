@@ -1,0 +1,15 @@
+{
+  "name": "@mikamikuh/eslint-config-vue",
+  "version": "0.0.8",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

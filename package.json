@@ -1,0 +1,7 @@
+{
+  "name": "shared-config-boilerplate",
+  "private": true,
+  "devDependencies": {
+    "lerna": "3.22.1"
+  }
+}
